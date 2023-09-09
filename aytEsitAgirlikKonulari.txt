@@ -24,7 +24,7 @@
     "Ülkeler ve Uluslararası Örgütler",
     "Çevre ve Toplum"
   ],
-  "Tarih-1": [
+  "Tarih1": [
     "Tarih Bilimine Giriş",
     "Uygarlığın Doğuşu ve İlk Çağ Uygarlıkları",
     "İlk Türk Devletleri",
