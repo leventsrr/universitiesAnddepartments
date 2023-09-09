@@ -1,0 +1,10 @@
+[
+	
+"Bilgi Felsefesi ",
+"Bilim Felsefesi",
+"Varlık Felsefesi",
+"Ahlak Felsefesi ",
+"Siyaset Felsefesi ",
+"Sanat Felsefesi ",
+"Din Felsefesi ",
+]

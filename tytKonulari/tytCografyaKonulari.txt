@@ -1,0 +1,19 @@
+[
+	"Doğa ve İnsan",
+"Harita Bilgisi",
+"Coğrafi Konum",
+"Dünya’nın Şekli",
+"İklim Bilgisi",
+"Türkiye’nin İklimi ve Yer",
+"Yer’in Şekillenmesi",
+"Toprak Tipleri",
+"İç ve Dış Kuvvetler",
+"Nüfus",
+"Ortak Payda: Bölge",
+"Ulaşım Yolları",
+"Çevre ve İnsan",
+"Doğal Afetler",
+
+
+
+]

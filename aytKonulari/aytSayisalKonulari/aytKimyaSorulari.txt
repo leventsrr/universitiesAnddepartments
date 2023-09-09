@@ -1,0 +1,21 @@
+[
+"Kimya Bilimi",
+"Atom ve Periyodik Sistem",
+"Modern Atom Teorisi",
+"Kimyasal Hesaplamalar" ,
+"Kimyasal Türler Arası Tepkimeler",
+"Asit, Baz ve Tuz",
+"Maddenin Halleri",
+"Gazlar",
+"Karışımlar",
+"Sıvı Çözeltiler",
+"Kimya ve Enerji",
+"Tepkimelerde Hız ve Denge",
+"Kimya ve Elektrik",
+"Karbon Kimyasına Giriş",
+"Organik Bileşikler",
+"Endüstride ve Canlılarda Enerji",
+"Kimya Her Yerde",
+"Hayatımızdaki Kimya",
+
+]

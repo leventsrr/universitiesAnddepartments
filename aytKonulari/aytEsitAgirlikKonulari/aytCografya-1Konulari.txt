@@ -1,0 +1,8 @@
+[
+"Doğal Sistemler",
+"Beşeri Sistemler",
+"Mekansal Bir Sentez: Türkiye",
+"Küresel Ortam: Bölgeler ve Ülkeler",
+"Ülkeler ve Uluslararası Örgütler",
+"Çevre ve Toplum"
+]
